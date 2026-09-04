@@ -1,0 +1,1 @@
+Local LLM Interface\n\nBuilt a Streamlit-based chat interface for interacting with locally hosted LLMs via Ollama (supports models like Llama 3, Mistral, Phi-3, and Gemma 2). Features live token streaming, multi-conversation management, adjustable generation parameters, custom system prompts, and automatic model discovery
